@@ -7,7 +7,7 @@ Post Grad Student
 I Love Code and Linux!!
 
 * 🌍  I'm based in Bangalore
-* ✉️  You can contact me at [Rahulraj2001@hotmail.com](mailto:Rahulraj2001@hotmail.com)
+* ✉️  You can contact me at [Rahulraj2001@hotmail.com](mailto:rahulraj_2001@hotmail.com)
 * 🚀  I'm currently working on [Docker and Kubernaties](http://https://github.com/Rahul-262001/project)
 * 🧠  I'm learning JS,Java,PL/SQL,Docker and Kubernaties
 * ⚡  I'm a Biker
