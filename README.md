@@ -18,8 +18,8 @@ I Love Code and Linux!!
 <p align="left">
 <a href="https://dev.to/https://dev.to/rahul262001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rahul262001" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-raj-r-a000a8205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-raj-r-a000a8205" height="30" width="40" /></a>
-<a href="https://instagram.com/http://www.instagram.com/_rahul_raj_r_rahul_raj_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/_rahul_raj_r_rahul_raj_r" height="30" width="40" /></a>
-<a href="https://www.behance.net/be" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="be" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100004057374960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004057374960" height="30" width="40" /></a>
+<a href="https://instagram.com/http://www.instagram.com/_rahul_raj_rrahul_raj_r_rahul_raj_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://www.instagram.com/_rahul_raj_rrahul_raj_r_rahul_raj_r" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/rahulrajesh85r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rahulrajesh85r/" height="30" width="40" /></a>
 </p>
 
@@ -31,3 +31,4 @@ I Love Code and Linux!!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-262001&show_icons=true&locale=en" alt="rahul-262001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-262001&" alt="rahul-262001" /></p>
+
