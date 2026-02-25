@@ -7,7 +7,6 @@ Post Grad Student
 I Love Code and Linux!!
 
 * 🌍  I'm based in Bangalore
-* 🖥️  See my website at [My website](http://rahulrajesh85r.wixsite.com/rahul-raj-r)
 * ✉️  You can contact me at [Rahulraj\_2001@hotmail.com](mailto:Rahulraj_2001@hotmail.com)
 * 🚀  I'm currently working on [Docker and Kubernaties](http://github.com/Rahul-262001/project)
 * 🧠  I'm learning JS,Java,PL/SQL,Docker and Kubernaties
